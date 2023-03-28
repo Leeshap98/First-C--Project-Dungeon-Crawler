@@ -1,0 +1,60 @@
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.exe
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.deps.json
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.runtimeconfig.json
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.dll
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.pdb
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.dll
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\refint\FinalProject - LeeShapira.dll
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.pdb
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.genruntimeconfig.cache
+C:\Users\User\source\repos\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\ref\FinalProject - LeeShapira.dll
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.exe
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.deps.json
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.runtimeconfig.json
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.dll
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.pdb
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.csproj.AssemblyReference.cache
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.AssemblyInfoInputs.cache
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.AssemblyInfo.cs
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.csproj.CoreCompileInputs.cache
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.dll
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\refint\FinalProject - LeeShapira.dll
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.pdb
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.genruntimeconfig.cache
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\הוראות פרויקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\ref\FinalProject - LeeShapira.dll
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.exe
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.deps.json
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.runtimeconfig.json
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.dll
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.pdb
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.dll
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\refint\FinalProject - LeeShapira.dll
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.pdb
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\ref\FinalProject - LeeShapira.dll
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.exe
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.deps.json
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.runtimeconfig.json
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.dll
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\bin\Debug\net7.0\FinalProject - LeeShapira.pdb
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.csproj.AssemblyReference.cache
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.AssemblyInfoInputs.cache
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.AssemblyInfo.cs
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.csproj.CoreCompileInputs.cache
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.dll
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\refint\FinalProject - LeeShapira.dll
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.pdb
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\FinalProject - LeeShapira.genruntimeconfig.cache
+C:\Users\1998l\Desktop\תואר תילתן\Basic C# for Games\פרוייקט סיום\FinalProject - LeeShapira\FinalProject - LeeShapira\obj\Debug\net7.0\ref\FinalProject - LeeShapira.dll
