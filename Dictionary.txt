@@ -1,0 +1,18 @@
+                Dictionary
+---------------------------------------------
+
+Monsters                  Treasure Chests
+h = Hopy                  ¶ = IncreaseDamage                         
+s = Skeleton              ▀ = IncreaseMaxHP
+£ = Scorpion              # = Heal
+B = Bargon
+W = Witch                 § = Trap
+K = King_Hopy
+H = Hulk                  Keys
+ƒ = Figon                 To move press w a s d | To save press E
+T = Titan                 To take a healing potion:
+© = Chaos_Cara            40 hp , press on p
+
+
+
+

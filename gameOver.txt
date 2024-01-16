@@ -1,0 +1,10 @@
+******************
+*                *
+* BBB  Y   Y EEE *
+* B  B  Y Y  E   *
+* B  B   Y   E   *
+* B B    Y   EEE *
+* B  B   Y   E   *
+* BBBB   Y   EEE *
+*                *
+******************
